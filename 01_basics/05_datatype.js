@@ -11,3 +11,12 @@ const score = 100;
 
 
 // the data type of non primitive data type is function
+
+// Stack (primitive),Heap (Non-primitve)
+
+let myYoutubeName = "hiteshChoudhary";
+let anotherName = myYoutubeName
+console.log(anotherName);
+
+// Stack me changes copy ke andr hote hain
+// aur heap me changes direct hote hain
