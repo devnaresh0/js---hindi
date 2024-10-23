@@ -20,3 +20,11 @@ console.log(anotherName);
 
 // Stack me changes copy ke andr hote hain
 // aur heap me changes direct hote hain
+
+console.log('Hello my naem is ${anotherName}');
+const gameName = new String('Hitesh');
+console.log(gameName[0]);
+console.log(gameName.__proto__);
+console.log(gameName.length);
+console.log(gameName.toUpperCase());
+// 14:32
