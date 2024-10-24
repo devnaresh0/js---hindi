@@ -28,3 +28,15 @@ console.log(gameName.__proto__);
 console.log(gameName.length);
 console.log(gameName.toUpperCase());
 // 14:32
+const newName = gameName.slice(-6,4);
+console.log(newName);
+const newStringOne = " hitesh "
+console.log(newStringOne);
+console.log(newStringOne.trim());
+
+
+const url = "https://hitesh.com"
+// browser will convert space to %20
+console.log(url.replace('%20','-'));
+console.log(url.includes('hitesh'));
+console.log(gameName.split('-'));
