@@ -16,3 +16,11 @@ navbar(company = "hitesh")
 //     price: "free"
 // }
 // 9:00
+
+[
+    {},
+    {},
+    {},
+]
+
+// JSON Javascript object notation
