@@ -7,14 +7,14 @@ if(true){
     let a = 10
     const b = 20
     // var c = 30
-    console.log("INNER: ",a);
+    // console.log("INNER: ",a);
     
 }
 
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
+// for (let i = 0; i < array.length; i++) {
+//     const element = array[i];
     
-}
+// }
 // console.log(a);
 // console.log(b);
 console.log(a);
@@ -25,3 +25,4 @@ console.log(a);
 // scopes are different if we run in node and when we run on browser
 
 // Document Object Model
+

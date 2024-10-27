@@ -66,3 +66,47 @@ function returnSecondValue(getArray){
 
 }
 console.log(returnSecondValue(myNewArray));
+
+function one() {
+    const username = "hitesh"
+    function tow(){
+        const website = "youtube";
+        console.log(username);
+        
+    }
+    // console.log(website);
+    tow()
+}
+one()
+
+
+if(true) {
+    const username = "hites";
+    if(username === "hites") {
+        const website = "youtube";
+     //   console.log(username + website);
+        
+    }
+    // console.log(website);
+    
+}
+
+// console.log(username);
+
+// *************** interseting *************
+console.log(addone(5))
+function addone (num) {
+    return num+1
+
+
+}
+
+// error because we hold it in a variable
+addTwo(5)
+const addTwo = function(num){
+    return num + 2;
+}
+// addTwo(5)
+
+// variables can hold JSON , functions varaibles are very versitle in javascript
+
