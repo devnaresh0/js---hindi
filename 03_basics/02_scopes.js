@@ -23,3 +23,5 @@ console.log(a);
 
 
 // scopes are different if we run in node and when we run on browser
+
+// Document Object Model
