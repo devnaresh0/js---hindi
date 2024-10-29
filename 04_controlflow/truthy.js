@@ -29,3 +29,23 @@ if (Object.keys(emptyObje).length===0) {
     
 
 }
+
+
+// Nullish Coalescing Operation (??) : null undefined
+
+let val1;
+// val1 = 5 ?? 10
+// it's only for null and undefined
+
+val1 = undefined ?? 15;
+// val1 = null ?? 10
+val1 = null ?? 10 ?? 10
+console.log(val1);
+
+// Terniary Operator 
+
+// condition ? true : false;
+
+const iceTeaPrice = 100
+iceTeaPrice <= 80 ? console.log("less than 80") : console.log("More than 80");
+
