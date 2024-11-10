@@ -1,0 +1,9 @@
+javascript is synchornous language
+only one code will execute at a time
+single threaded means ek hi thread pe sb kuchh execute hoga
+Default javascript behavious
+execution context 
+// Call stack //Memory Heap
+Blocking Code and Non Blocking Code
+Kisi bhi file ko execute krna
+Register Success
